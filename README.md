@@ -15,7 +15,7 @@ Para la instalación, se debe clonar este repositorio en su directorio HOME:
 
 ```sh
     cd ~
-    git clone https://github.com/Uchile-Lab-Vision-Computacional/delphi_radars.git
+    git clone https://github.com/Uchile-Lab-Vision-Computacional/el5206_ws.git
 ```
 
 Luego, se entra a la carpeta `el5206_ws` y se debe hacer `source` al archivo `install.bash` que correrá todos los comandos necesarios para la instalación y setup del workspace del curso.
